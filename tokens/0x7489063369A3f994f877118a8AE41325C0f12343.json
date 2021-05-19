@@ -1,6 +1,8 @@
 {
      "símbolo": "Husky",
-     "name": "Husky Coin",
+     "name" : "Husky Coin" ,
+
+
      "description": " The Husky Siberian Coin ",
      "sitio web": "https://huskycoin.tk",
      "comunidades": {
